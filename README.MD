@@ -8,13 +8,12 @@
   - [Specific Results and Outcomes](#specific-results-and-outcomes)
   - [What I Have Learned From This Project](#what-i-have-learned-from-this-project)
 
-[Back to Top](#)
 
 
 ## Project Objective
 The goal of this project was to create a data model for a law firm to track and analyze the profitability of individual contracts. This model integrates customer, contract, and financial data to assess the impact of attorney costs, expenses, and indirect costs on the profitability of contracts by partner.
 
-[Back to Top](#)
+[Back to Top](#law-firm-contract-profitability-analysis)
 
 ## Project Structure and Steps
 1. **Understading Business Needs**
@@ -41,7 +40,7 @@ The goal of this project was to create a data model for a law firm to track and 
 5. **Visualization and Reporting**:
    - Generated graphs and tables to provide insights into attorney performance, contract success rates, and profitability distribution.
 
-[Back to Top](#)
+[Back to Top](#law-firm-contract-profitability-analysis)
 
 ## Tools and Techniques Utilized
 - **Microsoft Excel**: Used for data consolidation, calculations, and reporting.
@@ -49,7 +48,7 @@ The goal of this project was to create a data model for a law firm to track and 
 - **Data Modeling**: Merged multiple datasets to create a unified view of contract profitability.
 - **Dashboards**: Created visualizations for easy tracking and decision-making.
 
-[Back to Top](#)
+[Back to Top](#law-firm-contract-profitability-analysis)
 
 ## Specific Results and Outcomes
 - **Profit Distribution**: The analysis showed that a significant number of contracts (especially private ones) were operating at a loss, with zero or negative revenue after expenses.
@@ -82,7 +81,7 @@ The goal of this project was to create a data model for a law firm to track and 
    - The original Excel-based model evolved into a **custom software tool** for tracking profitability, automating cost calculations, and generating financial reports.
    - This software is still in use today, replacing manual reporting processes with automated insights, contributing to better contract management and profitability tracking.
 
-[Back to Top](#)
+[Back to Top](#law-firm-contract-profitability-analysis)
 
 ## What I Have Learned From This Project 
 - **Business Acumen**: Learning to ask the right questions in the right way to extract business needs, expectactions and pains, as well as thinking as a business owner to make decisions on how to set up the solution
@@ -91,4 +90,4 @@ The goal of this project was to create a data model for a law firm to track and 
 - **Excel Dashboards and Reporting**: Improved capabilities in building Excel dashboards and generating insightful reports.
 - **Process Automation and Systematization**: Contributed to the transition from Excel-based reports to a software solution, enabling long-term usage and efficiency improvements.
 
-[Back to Top](#)
+[Back to Top](#law-firm-contract-profitability-analysis)
