@@ -7,6 +7,7 @@
   - [Tools and Techniques Utilized](#tools-and-techniques-utilized)
   - [Specific Results and Outcomes](#specific-results-and-outcomes)
   - [What I Have Learned From This Project](#what-i-have-learned-from-this-project)
+  - [How to use this repository](#how-to-use-this-repository)
 
 
 
@@ -89,5 +90,19 @@ The goal of this project was to create a data model for a law firm to track and 
 - **Profitability Analysis**: Developed skills in financial analysis, including indirect cost allocation and expense tracking.
 - **Excel Dashboards and Reporting**: Improved capabilities in building Excel dashboards and generating insightful reports.
 - **Process Automation and Systematization**: Contributed to the transition from Excel-based reports to a software solution, enabling long-term usage and efficiency improvements.
+
+[Back to Top](#law-firm-contract-profitability-analysis)
+
+## How to use this repository
+
+1. Clone the Repository git clone https://github.com/realdanizilla/MNSC.git
+
+2. Open the main Excel File and start at sheet "Start"
+   
+3. Select between adding more contract information to the database or visualizing analysis
+   
+4. Explore views, rankings, analysis and graphs to understand how profitability is calculted and how is works for different contracts.
+
+5. Add information for a new contract and see how it adds to the analysis and graphs
 
 [Back to Top](#law-firm-contract-profitability-analysis)
